@@ -1,5 +1,13 @@
 O kit SOS tem o objetivo de documentar procedimentos e recomendações para melhorar o desempenho do acesso a Internet dos pontos Gesac.
 
 Conteúdo do kit.
- 1 - DVD com distribuição Ubuntu customizada com pacotes para permitir o acesso a Internet sem a necessidade da instalação de pacotes adicionais como flash, java, etc;
- 2 - CD/DVD com procedimentos e recomendações para melhor desempenho dos clientes e rede local dos pontos Gesac que não usam GNU/Linux.
+ 1 - DVD com distribuição Ubuntu customizada com pacotes para permitir o acesso a Internet sem a necessidade da instalação de pacotes adicionais como flash, java, etc. O DVD com a distribuição GNU/Linux Ubuntu customizada está disponível para os 739 pontos participantes do projeto de formação Gesac;
+ 2 - CD/DVD com procedimentos e recomendações para melhor desempenho dos clientes e rede local dos pontos Gesac que não usam GNU/Linux;
+
+
+ Os anexos podem ser obtidos executando o script anexos.sh a partir de um sistema Linux com wget instalado.
+
+
+Bom proveito,
+
+Equipe de Infra do Instituto Federal Fluminense
