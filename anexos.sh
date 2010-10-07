@@ -22,7 +22,9 @@ then
   $g -c http://cartilha.cert.br/download/cartilha-seguranca-internet.pdf
   mkdir softwares
   cd softwares
+  $g -c http://dl1.avgate.net/package/wks_avira/win32/ptbr/pecl/avira_antivir_personal_ptbr.exe
   $g -c http://download833.avast.com/iavs5x/setup_av_free_por.exe
+  $g -c http://www.spybotupdates.com/files/spybotsd162.exe
 else
   echo ################
   echo "Instale o wget"
