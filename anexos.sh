@@ -20,6 +20,9 @@ then
   mkdir doc
   cd doc
   $g -c http://cartilha.cert.br/download/cartilha-seguranca-internet.pdf
+  mkdir softwares
+  cd softwares
+  $g -c http://download833.avast.com/iavs5x/setup_av_free_por.exe
 else
   echo ################
   echo "Instale o wget"
