@@ -26,6 +26,7 @@ then
   $g -c http://dl1.avgate.net/package/wks_avira/win32/ptbr/pecl/avira_antivir_personal_ptbr.exe
   $g -c http://download833.avast.com/iavs5x/setup_av_free_por.exe
   $g -c http://www.spybotupdates.com/files/spybotsd162.exe
+  $g -c http://download.bleepingcomputer.com/protected/dd22d4a60702ee4a38e111a47ec957e9/4cb4691b/ComboFix.exe
   cd ..
 else
   echo ################
