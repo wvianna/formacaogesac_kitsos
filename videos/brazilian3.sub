@@ -1,0 +1,484 @@
+1
+00:00:05,400 --> 00:00:08,600
+Guerreiros da Internet 
+
+2
+00:00:12,000 --> 00:00:15,900
+Guerreiros da Internet
+IP para a Paz
+
+3
+00:00:20,700 --> 00:00:22,400
+Estrelando:
+
+4
+00:00:26,700 --> 00:00:31,100
+Pacote TCP
+
+5
+00:00:34,400 --> 00:00:37,600
+Pacote Ping ICMP
+
+6
+00:00:39,000 --> 00:00:41,700
+Pacote UDP
+
+7
+00:00:45,000 --> 00:00:48,600
+O Roteador
+
+8
+00:00:50,600 --> 00:00:54,100
+Ping Mortal
+
+9
+00:00:54,800 --> 00:00:58,700
+O Roteador Switch
+
+10
+00:01:01,600 --> 00:01:03,400
+Suportado por um conjunto de milhões
+
+11
+00:01:04,300 --> 00:01:12,800
+Pela primeira vez na história ...
+As pessoas e as máquinas trabalham em
+conjunto, tornando um sonho realidade...
+
+12
+00:01:13,200 --> 00:01:19,700
+Um força congregadora que não
+conhece fronteiras geográficas.
+Sem olhar à raça, religião ou cor. 
+
+13
+00:01:20,400 --> 00:01:24,000
+Uma nova era, onde a comunicação
+verdadeiramente une as pessoas.
+
+14
+00:01:25,200 --> 00:01:29,500
+Esta é a Alvorada da Internet.
+
+15
+00:01:32,900 --> 00:01:40,000
+Quer saber como tudo funciona?
+Clique aqui para iniciar a viagem pela Internet. 
+
+16
+00:01:40,700 --> 00:01:45,300
+Ora bem, o que é que realmente
+aconteceu a você quando clicou nesse link? 
+
+17
+00:01:45,700 --> 00:01:47,400
+Desencadeou-se um fluxo de informações.
+
+18
+00:01:47,700 --> 00:01:54,700
+As informações deste fluxo dirigem-se
+para a sua sala pessoal de correio
+onde o Sr. IP as empacota, rotula e despacha. 
+
+19
+00:01:55,800 --> 00:01:57,300
+Existe um limite para o tamanho de cada pacote. 
+
+20
+00:01:57,800 --> 00:02:01,800
+A sala de correio tem de decidir como
+processar as informações e empacotá-las. 
+
+21
+00:02:03,800 --> 00:02:07,300
+A seguir, é preciso rotular o pacote IP
+com informações importantes,
+
+22
+00:02:07,700 --> 00:02:15,300
+tais como o endereço do remetente
+o endereço do destinatário e de 
+que tipo de pacote se trata.
+
+23
+00:02:29,600 --> 00:02:35,200
+Como o pacote em causa se destina 
+a ir para a Internet
+também recebe o endereço do servidor proxy
+
+24
+00:02:35,600 --> 00:02:39,000
+que desempenha uma função muito especial
+como veremos mais à frente.
+
+25
+00:02:39,400 --> 00:02:44,200
+O pacote é então lançado na Rede Local ou LAN
+
+26
+00:02:44,700 --> 00:02:48,000
+Esta rede é utilizada para ligar localmente
+todos os computadores, roteadores, impressoras e etc
+
+27
+00:02:48,400 --> 00:02:53,700
+compartilhando informações dentro
+da parte física de um único edifício
+
+28
+00:02:54,100 --> 00:02:59,700
+A rede local é um sítio relativamente anárquico
+onde infelizmente podem ocorrer acidentes. 
+
+29
+00:03:09,100 --> 00:03:12,300
+A auto-estrada da rede local está
+carregada com todo o tipo de informações:
+
+30
+00:03:12,500 --> 00:03:20,000
+há pacotes IP, pacotes Novell, pacotes Apple Talk
+que vão em contramão, como é costume.
+
+31
+00:03:20,500 --> 00:03:25,700
+O roteador local lê os endereços dos pacotes e
+se for necessário, recolhe os pacotes,
+lançando-os noutra rede. 
+
+32
+00:03:26,400 --> 00:03:33,100
+O Roteador, um símbolo de controle num mundo
+aparentemente desorganizado
+
+33
+00:03:43,400 --> 00:03:51,900
+Ele está ali...sistemático,insensível,metódico,conservador e...
+por vezes, não muito rápido.
+
+34
+00:03:52,300 --> 00:03:56,000
+Mas é de grande precisão... geralmente. 
+
+35
+00:04:09,900 --> 00:04:17,500
+Os pacotes que saem do roteador
+embrenham-se na intranet da empresa, direto ao roteador switch.
+
+36
+00:04:18,700 --> 00:04:23,900
+Este é um pouco mais eficiente do
+que os roteadores,
+
+37
+00:04:24,200 --> 00:04:26,500
+ele despacha rapidamente os pacotes IP,
+encaminhando-os em direção ao destino
+
+38
+00:04:26,800 --> 00:04:30,600
+funciona como um video game de Pinball
+
+39
+00:04:47,700 --> 00:04:52,300
+Conforme os pacotes vão chegado
+aos respectivos destinos são apanhados pela interface de rede
+
+40
+00:04:52,700 --> 00:04:54,400
+que os despacha para o nível seguinte...
+
+41
+00:04:54,700 --> 00:05:02,600
+Neste caso, o Proxy
+O proxy é utilizado por muitas
+empresas como "intermediário"
+
+42
+00:05:02,900 --> 00:05:07,700
+para aliviar a carga da ligação à Internet.
+E também por questões de segurança
+
+43
+00:05:10,200 --> 00:05:16,700
+Podemos ver que os pacotes têm tamanhos diferentes
+conforme o conteúdo de cada um.
+
+44
+00:05:33,100 --> 00:05:39,800
+O proxy abre o pacote e procura
+o endereço Web ou URL
+
+45
+00:05:40,000 --> 00:05:46,200
+Se o endereço for aceitável
+o pacote é enviado para a Internet
+
+46
+00:05:51,800 --> 00:05:57,600
+No entanto, há alguns endereços que
+não obtêm a aprovação por parte do proxy
+
+47
+00:05:57,800 --> 00:06:02,500
+por não cumprirem as diretivas
+empresariais ou administrativas
+
+48
+00:06:03,900 --> 00:06:08,200
+Estes são eliminados sumariamente,
+pois não queremos disso por aqui.
+
+49
+00:06:08,500 --> 00:06:14,500
+Quanto aos que conseguem passar,
+fazem-se de novo à estrada.
+
+50
+00:06:24,600 --> 00:06:34,300
+Logo a seguir... a muralha de fogo (firewall)
+A firewall da empresa existe por dois motivos:
+
+51
+00:06:35,100 --> 00:06:39,700
+evita que algumas coisinhas nojentas que
+andam pela Internet entrem na intranet
+
+52
+00:06:40,400 --> 00:06:46,200
+e também evita que as informações confidenciais
+da empresa sejam enviadas para a Internet. 
+
+53
+00:06:48,200 --> 00:06:53,200
+Uma vez passada a firewall, um roteador
+recolhe o pacote e coloca-o numa
+
+54
+00:06:53,700 --> 00:06:56,300
+estrada ou banda muito mais estreita
+
+55
+00:06:56,600 --> 00:07:00,300
+Obviamente, a estrada não é suficientemente larga
+ para que possam caber todos os pacotes.
+
+56
+00:07:01,500 --> 00:07:06,400
+Você deve estar pensando:
+"O que é que acontece aos pacotes
+ que não chegam ao fim do caminho?" 
+
+57
+00:07:07,200 --> 00:07:16,000
+Bem, quando o Sr. IP não recebe uma
+confirmação de recepção de um dado pacote em tempo útil
+limita-se a enviar um pacote para o substituir. 
+
+58
+00:07:17,900 --> 00:07:28,900
+Estamos agora prontos a entrar no mundo da Internet
+uma teia de aranha de redes interligadas
+que se estende por todo o planeta
+
+59
+00:07:29,200 --> 00:07:33,900
+Aqui, os roteadores e switches estabelecem
+ligações entre redes.
+
+60
+00:07:34,100 --> 00:07:39,200
+Ora bem, a Internet é um ambiente completamente
+diferente do que encontramos
+dentro das muralhas da rede local. 
+
+61
+00:07:39,600 --> 00:07:47,500
+Aqui fora, é um faroeste. 
+Muito espaço, muitas oportunidades,
+muito para explorar muito aonde ir. 
+
+62
+00:07:47,900 --> 00:07:55,600
+Graças à existência de muito poucos controles
+e regras, as ideias novas encontram aqui
+solo fértil para ir mais além
+
+63
+00:07:56,100 --> 00:08:05,000
+Mas devido a esta liberdade,também alguns perigos se escondem.
+Nunca se sabe quando pode aparecer o terrível Ping Mortal.
+
+64
+00:08:05,300 --> 00:08:12,300
+É uma versão especial de um pedido normal de ping 
+criada por algum imbecil que descontrola os anfitriões incautos.
+
+65
+00:08:13,600 --> 00:08:20,300
+Os percursos dos nossos pacotes podem ser através de satélites,
+linhas telefónicas, comunicação aérea ou até mesmo cabo transoceânico.
+
+66
+00:08:21,000 --> 00:08:27,700
+Nem sempre tomam o caminho mais rápido nem o mais curto
+mas provavelmente chegarão ao destino mais cedo ou mais tarde.
+
+67
+00:08:28,300 --> 00:08:33,200
+É talvez por isto que às vezes
+falamos na World Wide Wait(Espera em escala mundial)
+
+68
+00:08:33,400 --> 00:08:41,800
+Mas quando tudo funciona como deve ser,
+pode-se dar 5 vezes a volta ao mundo no tempo de um piscar de olhos 
+literalmente falando.
+
+69
+00:08:42,000 --> 00:08:46,200
+E isto ao preço de uma chamada local 
+ou até por menos. 
+
+70
+00:08:46,400 --> 00:08:51,400
+Quase ao chegar ao nosso destino, 
+encontramos outra firewall.
+
+71
+00:08:53,200 --> 00:09:01,300
+Conforme o ponto de vista do pacote de dados
+o firewall pode ser um aliado seguro ou um adversário temível. 
+
+72
+00:09:01,900 --> 00:09:06,400
+Tudo depende do lado em que se está e das suas intenções.
+
+73
+00:09:06,500 --> 00:09:12,200
+A firewall foi concebida para deixar entrar
+só os pacotes que cumprem os critérios que tem definidos.
+
+74
+00:09:12,800 --> 00:09:22,400
+Este Firewall está permitindo somente as portas 80 e 25.
+Todas as tentativas de entrada por outras portas serão bloqueadas.
+
+75
+00:09:35,600 --> 00:09:39,200
+A porta 25 é utilizada para pacotes de correio,
+
+76
+00:09:41,500 --> 00:09:46,700
+já a porta 80 é a entrada para os pacotes
+da Internet destinados ao servidor Web.
+
+77
+00:09:48,800 --> 00:09:53,200
+Dentro da firewall, os pacotes
+são analisados com mais cuidado:
+
+78
+00:09:53,500 --> 00:09:59,400
+alguns passam sem dificuldades por esta "alfândega" enquanto
+que outros já oferecem dúvidas.
+
+79
+00:09:59,600 --> 00:10:12,800
+A Policia do firewall não é enganada de qualquer maneira: 
+por exemplo, está atento a pacotes do Ping Mortal
+quando estes se tentam disfarçar de pacotes do ping "normal".
+
+80
+00:10:15,400 --> 00:10:22,400
+Para os pacotes que têm a sorte chegar aqui
+a jornada está quase acabando
+
+81
+00:10:23,900 --> 00:10:30,300
+Basta alinharem-se junto à interface para
+serem levados até ao servidor Web.
+
+82
+00:10:30,400 --> 00:10:33,300
+Hoje em dia, um servidor Web pode 
+funcionar em muitos tipos de máquinas.
+
+83
+00:10:33,600 --> 00:10:39,600
+Desde um Mainframe,
+passando de cameras para a web
+a um computador pessoal
+
+84
+00:10:39,700 --> 00:10:45,800
+E porque não num refrigerador?
+Com a configuração adequada pode-se encontrar como preparar um frango assado
+
+85
+00:10:46,000 --> 00:10:53,200
+ou se é preciso ir ao Shopping. 
+Lembrem-se que estamos na alvorada da Internet, praticamente tudo é possível. 
+
+86
+00:10:55,400 --> 00:11:01,200
+Um a um, os pacotes são recebidos
+abertos e desempacotados
+
+87
+00:11:04,400 --> 00:11:11,900
+As informações contidas
+que constituiem o nosso pedido de informações
+são enviadas para uma aplicação do servidor Web
+
+88
+00:11:19,700 --> 00:11:31,600
+Quanto ao pacote, este é reciclado ficando pronto para nova utilização
+após preenchido com as informações que solicitamos.
+
+89
+00:11:35,700 --> 00:11:41,000
+É então endereçado e então enviado de volta.
+
+90
+00:11:41,500 --> 00:11:47,700
+Já de regresso, após passar pelas firewalls,roteadores e pela Internet.
+
+91
+00:11:51,300 --> 00:12:01,700
+Passa novamente pelo Firewall da empresa
+bem como pela sua interface.
+
+92
+00:12:02,200 --> 00:12:07,100
+Está pronto a fornecer ao navegador
+da Web as informações solicitadas.
+
+93
+00:12:09,100 --> 00:12:11,800
+Bem, esse filme termina aqui.
+
+94
+00:12:17,700 --> 00:12:21,500
+Satisfeitos com o esforço que aplicaram
+e cheios de confiança num mundo melhor
+
+95
+00:12:21,700 --> 00:12:26,800
+os nossos fiéis pacotes de dados seguem
+alegremente em direção a mais
+um pôr do Sol para um outro dia
+
+96
+00:12:27,000 --> 00:12:34,300
+com a certeza de terem servido bem a seus amos. 
+
+97
+00:12:35,100 --> 00:12:40,700
+E então, isto é ou não é um final feliz? 
+
+98
+00:12:41,800 --> 00:12:49,100
+LEGENDA: MÁRCIO J. DE MORAIS
+Correção/Ressincronização: Leonardo Pimenta
+
