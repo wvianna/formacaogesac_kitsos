@@ -36,7 +36,7 @@ then
   #Combofix
   $g -c http://download.bleepingcomputer.com/protected/dd22d4a60702ee4a38e111a47ec957e9/4cb4691b/ComboFix.exe
   #Endian 2.4
-  $g -c http://sourceforge.net/settings/mirror_choices?projectname=efw&filename=Development/EFW-2.4-RESPIN/EFW-COMMUNITY-2.4-201005280528-RESPIN.iso
+  $g -c http://ufpr.dl.sourceforge.net/project/efw/Development/EFW-2.4-RESPIN/EFW-COMMUNITY-2.4-201005280528-RESPIN.iso
   cd ..
 else
   echo ################
